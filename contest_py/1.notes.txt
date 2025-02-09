@@ -1,0 +1,60 @@
+Union-Find Algorithm (Disjoint set data structure)
+	- detect cycles in city connection problem
+
+Kruskal Algorithm, Minimum Spanning Tree (MST)
+	- City travel problem
+	- sort roads by cost
+	- find the minimum spanning tree that connects all nodes
+	- use UnionFind to detect cycles
+
+Sparse Table
+	- doing efficient range queries on static arrays
+	- divide arrays into subsections based on binary (base 2)
+	-
+
+Topological Sort
+	- takes a directed graph and returns an ordered array of the nodes
+	- https://www.youtube.com/watch?v=eL-KzMXSXXI
+
+	- “Course Schedule”
+
+Boyer-Moore Voting Algorithm
+	- used to find the majority with at least N/2 occurrences
+
+H-Index
+	first H has at least H weights, get max H
+
+KMP and LPS Algorithm (Knuth-Morris-Pratt) and (Longest Prefix Suffix)
+	- for search substrings
+
+Total Appeal of a String
+	-
+
+Trie (prefix tree)
+	-
+
+Edit Distance
+	- Levenshtein Distance
+
+
+Kadane’s Algorithm
+
+
+Sorts
+	- selection sort
+	- bubble sort
+	- insertion sort
+	- heap sort
+	- d&v sort (binary sort)
+
+Heap
+	- min heap
+	- max heap
+
+Graph Algorithm
+	- breadth first search
+	- depth first search
+	- Topological Sort
+
+Segment Tree
+    -
